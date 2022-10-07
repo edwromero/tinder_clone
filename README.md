@@ -1,16 +1,9 @@
-# tinder_clone
+# TINDER CLONE
 
-A new Flutter project.
+This is a simple layout of the famous tinder app. It doesn't have any active functionality, it's just the copy of the main interface that I use to practice my Dart skills.
 
-## Getting Started
+![GIF](https://github.com/edwromero/tinder_clone/blob/main/tinderApp.gif).
 
-This project is a starting point for a Flutter application.
+***************************IMPORTANT******************************
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Remember this is not a final product, it is just a sample of my knowledge and studies in the area. #github #project #video #database #firebase #flutter #dart #androi
